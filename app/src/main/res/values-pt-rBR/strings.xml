@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ocean_Android_introducao_30_06_2022</string>
+    <string name="hello_world">Olá, mundo!</string>
+    <string name="send">Enviar</string>
+    <string name="type_your_name">Digite seu nome...</string>
+    <string name="open_new_screen">Abrir Nova Tela</string>
+    <string name="back">Voltar</string>
+    <string name="type_a_valid_name">Digite um nome válido!</string>
+</resources>
